@@ -228,9 +228,9 @@ section{
     width: 100%;
     padding: 18px 30px;
 }
-.contact-section input{
+.contact-section input[type="text"],input[type="email"]{
     
-    height: 64px;
+    height: 54px;
 }
 .contact-title{
     margin-bottom: 30px;
